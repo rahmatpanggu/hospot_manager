@@ -79,5 +79,13 @@ GitHub: @rahmatpanggu
 
 Email: rpanggu@gmail.com
 
-⭐ Dukung Proyek Ini
-Jika aplikasi ini bermanfaat, jangan lupa beri bintang ⭐ di repository ini!
+
+## 💖 Dukung Karya Saya
+
+Jika proyek ini bermanfaat, dukung saya untuk terus berkarya! 👇
+
+[![Trakteer](https://img.shields.io/badge/Trakteer-Dukung%20Sekarang-f97316?style=for-the-badge&logo=trakteer)](https://teer.id/rpanggu)
+
+*Dibuat dengan ❤️ oleh [@rpanggu](https://github.com/rahmatpanggu)*
+
+
