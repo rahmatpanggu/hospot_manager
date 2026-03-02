@@ -56,6 +56,14 @@ Atau kunjungi halaman [Releases](https://github.com/rahmatpanggu/hotspot_manager
 - Restart hotspot (OFF lalu ON)
 - Restart laptop
 
+## 💖 Dukung Karya Saya
+
+Jika proyek ini bermanfaat, dukung saya untuk terus berkarya! 👇
+
+[![Trakteer](https://img.shields.io/badge/Trakteer-Dukung%20Sekarang-f97316?style=for-the-badge&logo=trakteer)](https://teer.id/rpanggu)
+
+*Dibuat dengan ❤️ oleh [@rpanggu](https://github.com/rahmatpanggu)*
+
 ## 🛠️ Build dari Source
 
 ```bash
@@ -80,12 +88,5 @@ GitHub: @rahmatpanggu
 Email: rpanggu@gmail.com
 
 
-## 💖 Dukung Karya Saya
-
-Jika proyek ini bermanfaat, dukung saya untuk terus berkarya! 👇
-
-[![Trakteer](https://img.shields.io/badge/Trakteer-Dukung%20Sekarang-f97316?style=for-the-badge&logo=trakteer)](https://teer.id/rpanggu)
-
-*Dibuat dengan ❤️ oleh [@rpanggu](https://github.com/rahmatpanggu)*
 
 
