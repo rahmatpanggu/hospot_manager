@@ -1,0 +1,21 @@
+# Flutter
+.dart_tool/
+build/
+*.iml
+*.lock
+*.log
+*.swp
+*.swo
+.DS_Store
+
+# Windows
+windows/flutter/ephemeral/
+windows/runner/cmake_install.cmake
+windows/runner/CMakeCache.txt
+windows/out/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
